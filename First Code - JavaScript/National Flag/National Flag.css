@@ -1,0 +1,23 @@
+#container {
+	width: 485px;
+	height: 200px;
+	border: 2px solid black;
+}
+
+#first-side {
+	float: left;
+	width: 150px;
+	height: 200px;
+}
+
+#second-side {
+	float: left;
+	width: 170px;
+	height: 200px;
+}
+
+#third-side {
+	float: left;
+	width: 165px;
+	height: 200px;
+}
